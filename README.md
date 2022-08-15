@@ -7,8 +7,7 @@ The possible answers are: True or False.
 User receives a score at the end of the quiz. 
 
 
-OpenTrivia DB API is used to generate new questions if needed.\n
-
+OpenTrivia DB API is used to generate new questions if needed.
 
 
 Link: https://opentdb.com/ 
